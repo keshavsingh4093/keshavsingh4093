@@ -22,7 +22,7 @@ I'm a passionate **Backend Developer** with a strong foundation in building robu
 
 ## Achievements
 
-- **50-Day Badge** on LeetCode 🏆
+- **100-Day Badge** on LeetCode 🏆
 - Solved **200+ problems** on LeetCode focusing on DSA and algorithm optimization
 - Worked on projects that integrate database management with efficient server-side logic
 
@@ -30,11 +30,16 @@ I'm a passionate **Backend Developer** with a strong foundation in building robu
 
 ## Projects
 
-- **Calorie Calculator Web App**: Developed a real-time calorie tracking application using QR codes and dynamic ingredient management (ongoing hackathon project)
+- **Udemy Clone**: A feature-rich Udemy Clone built using React with Vite, and Express with mongodb. This project replicates core functionalities of the Udemy platform, offering an interactive and responsive user interface for online course browsing, purchase, and management.
+
+- **Link Shrinker**: A web application that allows users to generate short URLs for long URLs. It also keeps track of previously generated URLs, which users can view on the "Previous URLs" page. The application provides a seamless user experience by maintaining login sessions for 7 days.
+
+- **Calorie Calculator Web App**: Developed a real-time calorie tracking application using QR codes and dynamic ingredient management.
 
 ---
 
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/keshav-singh25)  
-- [GitHub](https://github.com/keshavsingh4093)  
+- [GitHub](https://github.com/keshavsingh4093)
+- [Portfolio](https://keshavsinghportfolio.netlify.app) 
